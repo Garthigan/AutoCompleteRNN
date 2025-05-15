@@ -31,8 +31,8 @@ Before running the notebook, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/Garthigan/AutoCompleteRNN
+   cd AutoCompleteRNN
    ```
 
 2. Install the required dependencies:
