@@ -59,10 +59,3 @@ The notebook includes sections where:
 
 This notebook is for educational purposes. If you’d like to contribute by enhancing the examples or fixing issues, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Acknowledgments
-
-Special thanks to the course instructors and peers for their guidance and feedback on this assignment.
